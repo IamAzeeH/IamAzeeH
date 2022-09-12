@@ -33,7 +33,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working - <strong>Alx software Engineering Projects</strong></p>   
   
@@ -53,14 +53,14 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ⚙️ My projects - are available at <a href="https://github.com/IamAzeeH?tab=repositories">https://github.com/IamAzeeH?tab=repositories</a></p>    
 
 
-
+</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://media.giphy.com/media/xT0GqdYU6eAkK559Ha/giphy.gif" align="center" style="width: 100%" />
 </div>  
 
 
-
+</td></tr></table>  
 
 <br/>  
 
@@ -88,13 +88,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH&hide_border=true&layout=compact" align="left" style="width: 50%" />
 
 
 
