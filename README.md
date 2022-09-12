@@ -1,4 +1,4 @@
-<div align="center">![Header](./header-image.png)
+<div align="center">![Header](./header-image.png)</div> 
 
 ###  <div align="center">I'm Azewene, Information & Digital Tech Analyst and a  Full-Stack freelance developer 👨‍💻 working remotely since 2016 🚀🤭</div>  
   
