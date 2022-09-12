@@ -80,7 +80,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"align="center" /></div>
 
 <br/>  
 
@@ -108,5 +108,3 @@ Welcome to my Blog post
 
 ----
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH)](https://github.com/IamAzeeH/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
