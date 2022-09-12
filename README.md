@@ -1,5 +1,5 @@
-https://arturssmirnovs.github.io/github-profile-readme-generator/images/https://images.pexels.com/photos/6424589/pexels-photo-6424589.jpeg?auto=compress&cs=tinysrgb&w=600
-### Hi there 👋 IamAzeeH (AZEWENE NJIGWUM)
+### Hi there 👋 IamAzeeH 
+(AZEWENE NJIGWUM)
 
 <!--
 **IamAzeeH/IamAzeeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
