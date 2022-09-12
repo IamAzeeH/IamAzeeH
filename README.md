@@ -39,7 +39,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working - <strong>Alx software Engineering Projects</strong></p>   
@@ -54,13 +53,13 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - ❓ Ask me about anything related to - <strong> Software Development and  UI /UX   related technologies</strong></p>  
   
 
-- 📫 How to reach me: - <strong><a href="mailto:MercyJay011@gmail.com">Iamazeeh@gmail.com</a></strong></p>    
+- 📫 How to reach me: - <strong><a href="mailto:Iamazeeh@gmail.com">Iamazeeh@gmail.com</a></strong></p>    
   
 
 - ⚙️ My projects - are available at <a href="https://github.com/IamAzeeH?tab=repositories">https://github.com/IamAzeeH?tab=repositories</a></p>    
 
 
-</td><td valign="top" width="50%">
+
 
 <div align="center">
 <img src="https://media.giphy.com/media/xT0GqdYU6eAkK559Ha/giphy.gif" align="center" style="width: 100%" />
