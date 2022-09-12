@@ -1,5 +1,5 @@
 ### Hi there 👋 IamAzeeH 
-(AZEWENE NJIGWUM)
+(**AZEWENE NJIGWUM**)
 
 <!--
 **IamAzeeH/IamAzeeH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
