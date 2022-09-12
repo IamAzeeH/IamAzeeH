@@ -80,8 +80,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"align="center" /></div>
-  <div align="center"><img src="[https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH&layout=compact)](https://github.com/IamAzeeH/github-readme-stats"align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH&layout=compact)](https://github.com/IamAzeeH/github-readme-stats"align="center" /></div>
+  
   
 
 <br/>  
