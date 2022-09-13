@@ -8,14 +8,14 @@
 
 ### <div align="center">I’m an Information & Digital Tech Analyst and a  Full-Stack freelance developer 👨‍💻 working remotely since 2016 🚀🤭
 
-I specialize in building robust backends and System designs,  I love designing systems that are light yet powerful, distributed yet synchronized, I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization  and also promising technologies like Blockchain & Web3. </div>  
+I specialize in building robust backends and System designs, I love to build innovative and cutting-edge business solutions for the impressive suite of clients within its global reach.  I love designing systems that are light yet powerful, distributed yet synchronized, I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization  and also promising technologies like Blockchain & Web3. </div>  
   
 <div align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="center" style="width: 100%" />
 </div> 
   
 
--  🔭 I’m currently working - <strong>Alx software Engineering Projects</strong></p>    
+-  🔭 I’m currently working on - <strong>Alx software Engineering Projects & AWS Machine Learning</strong></p>    
   
 
 - 🌱 I’m currently learning  - <strong>Software Engineering &amp; Development.</strong></p>   
@@ -24,7 +24,7 @@ I specialize in building robust backends and System designs,  I love designing s
 - ❓ Ask me about anything related to - <strong> Software Development and  UI /UX   related technologies</strong></p>   
   
 
--  👯 I’m looking to collaborate on - <strong>Designing and maintaining software systems. Evaluating and testing new software programs. Optimizing software for speed and scalability. Writing and testing code. Consulting with clients, engineers, business entities, security specialists, and other stakeholders.</strong></p>   
+-  👯 I’m looking to collaborate on - <strong>Building innovative microservices and Web Services, Designing and maintaining software systems, Evaluating and testing new software programs. Optimizing software for speed and scalability. Writing and testing code. Consulting with clients, engineers, business entities, security specialists, and other stakeholders.</strong></p>   
   
 
 - 📫 How to reach me: - <strong><a href="mailto:Iamazeeh@gmail.com">Iamazeeh@gmail.com</a></strong></p>   
