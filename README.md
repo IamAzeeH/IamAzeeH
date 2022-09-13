@@ -7,8 +7,9 @@
 
 I specialize in building robust backends and System designs,  I love designing systems that are light yet powerful, distributed yet synchronized, I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization  and also promising technologies like Blockchain & Web3. </div>  
   
-
-![code boy](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)  
+<div align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="center" style="width: 100%" />
+</div> 
   
 
 -  🔭 I’m currently working - <strong>Alx software Engineering Projects</strong></p>    
@@ -101,7 +102,7 @@ I specialize in building robust backends and System designs,  I love designing s
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
@@ -121,4 +122,4 @@ I specialize in building robust backends and System designs,  I love designing s
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
