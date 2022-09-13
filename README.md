@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/xT0GqdYU6eAkK559Ha/giphy.gif" align="center" style="width: 100%" />
 </div>  
-<div align="left">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=IamAzeeH&&style=flat-square" align="center" />
 </div>
   
@@ -58,12 +58,6 @@ I specialize in building robust backends and System designs,  I love designing s
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
@@ -100,7 +94,7 @@ I specialize in building robust backends and System designs,  I love designing s
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH&hide_border=true&layout=compact" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark" align="center" /></div>  
   
 
 <br/>  
