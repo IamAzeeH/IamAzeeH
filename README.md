@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://media.giphy.com/media/xT0GqdYU6eAkK559Ha/giphy.gif" align="center" style="width: 100%" />
 </div>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=IamAzeeH&&style=flat-square" align="center" />
+</div>
   
 
 ### <div align="center">I’m an Information & Digital Tech Analyst and a  Full-Stack freelance developer 👨‍💻 working remotely since 2016 🚀🤭
@@ -98,22 +101,10 @@ I specialize in building robust backends and System designs,  I love designing s
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH&hide_border=true&layout=compact" align="left" />  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
   
 
 <br/>  
-
   
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=IamAzeeH&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
