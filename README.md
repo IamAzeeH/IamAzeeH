@@ -6,7 +6,7 @@
 </div>
   
 
-### <div align="center">I’m an Information & Digital Tech Analyst and a  Full-Stack freelance developer 👨‍💻 working remotely since 2016 🚀🤭
+### <div align="center">I’m Azewene - Information & Digital Tech Analyst and a  Full-Stack freelance developer 👨‍💻 working remotely since 2016 🚀🤭
 
 I specialize in building robust backends and System designs, I love to build innovative and cutting-edge business solutions for the impressive suite of clients within its global reach.  I love designing systems that are light yet powerful, distributed yet synchronized, I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization  and also promising technologies like Blockchain & Web3. </div>  
   
@@ -94,7 +94,7 @@ I specialize in building robust backends and System designs, I love to build inn
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH&hide_border=true&layout=compact" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&show_icons=true&theme=github_dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&&count_private=true&theme=github_dark" align="center" /></div>  
   
 
 <br/>  
