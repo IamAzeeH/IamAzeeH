@@ -94,7 +94,7 @@ I specialize in building robust backends and System designs, I love to build inn
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH&hide_border=true&layout=compact" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&&count_public=true&theme=github_dark" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&&count_show=true&theme=github_dark" align="center" /></div>  
   
 
 <br/>  
