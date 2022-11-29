@@ -1,110 +1,46 @@
 <div align="center">
 <img src="https://media.giphy.com/media/xT0GqdYU6eAkK559Ha/giphy.gif" align="center" style="width: 100%" />
-</div>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=IamAzeeH&&style=flat-square" align="center" />
 </div>
-  
 
-### <div align="center">I’m Azewene - Information & Digital Tech Analyst and a  Full-Stack freelance developer 👨‍💻 working remotely since 2016 🚀🤭
+<h1 align="center">Hi 👋, I'm AzeeH</h1>
+<h3 align="center">A passionate Full-Stack developer & UI UX Designer.</h3>
 
-I specialize in building robust backends and System designs, I love to build innovative and cutting-edge business solutions for the impressive suite of clients within its global reach.  I love designing systems that are light yet powerful, distributed yet synchronized, I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization  and also promising technologies like Blockchain & Web3. </div>  
-  
-<div align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="center" style="width: 100%" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamazeeh&label=Profile%20views&color=0e75b6&style=flat" alt="iamazeeh" /> </p>
+
+
+<p align="left"> <a href="https://twitter.com/iamazeeh" target="blank"><img src="https://img.shields.io/twitter/follow/iamazeeh?logo=twitter&style=for-the-badge" alt="iamazeeh" /></a> </p>
+
+<div align="right">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" align="right" style="width: 100%" />
 </div> 
-  
 
--  🔭 I’m currently working on - <strong>Alx software Engineering Projects & AWS Machine Learning</strong></p>    
-  
+- 🔭 I’m currently working on **Alx software Engineering Projects & AWS Machine Learning**
 
-- 🌱 I’m currently learning  - <strong>Software Engineering &amp; Development.</strong></p>   
-  
+- 🌱 I’m currently learning **Software Engineering &amp; Development.**
 
-- ❓ Ask me about anything related to - <strong> Software Development and  UI /UX   related technologies</strong></p>   
-  
+- 👯 I’m looking to collaborate on **Building innovative microservices and Web Services, Designing and maintaining software systems, Evaluating and testing new software programs. Optimizing software for speed and scalability. Writing and testing code. Consulting with clients, engineers, business entities, security specialists, and other stakeholders.**
 
--  👯 I’m looking to collaborate on - <strong>Building innovative microservices and Web Services, Designing and maintaining software systems, Evaluating and testing new software programs. Optimizing software for speed and scalability. Writing and testing code. Consulting with clients, engineers, business entities, security specialists, and other stakeholders.</strong></p>   
-  
+- 👨‍💻 All of my projects are available at [https://github.com/IamAzeeH?tab=repositories](https://github.com/IamAzeeH?tab=repositories)
 
-- 📫 How to reach me: - <strong><a href="mailto:Iamazeeh@gmail.com">Iamazeeh@gmail.com</a></strong></p>   
-  
+- 💬 Ask me about **C, Python Software Development and UI /UX related technologies**
 
-- ⚙️ My projects - are available at <a href="https://github.com/IamAzeeH?tab=repositories">https://github.com/IamAzeeH?tab=repositories</a></p>    
-  
+- 📫 How to reach me **Iamazeeh@gmail.com**
 
-<br/>  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/iamazeeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamazeeh" height="30" width="40" /></a>
+<a href="https://dev.to/iamazeeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="iamazeeh" height="30" width="40" /></a>
+<a href="https://twitter.com/iamazeeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamazeeh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamazeeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamazeeh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19401787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19401787" height="30" width="40" /></a>
+<a href="https://www.behance.net/iamazeeh@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="iamazeeh@gmail.com" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamazeeh&show_icons=true&locale=en&layout=compact" alt="iamazeeh" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamazeeh&show_icons=true&locale=en" alt="iamazeeh" /></p>
 
-
-### <strong>Language & Tools</strong></p>   
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/IamAzeeH" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/IamAzeeH" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/IamAzeeH" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/IamAzeeH" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/IamAzeeH" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/19401787" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAzeeH&hide_border=true&layout=compact" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IamAzeeH&count_private=true&theme=github_dark" align="center" /></div>  
-  
-
-<br/>  
-  
-  
-
-<br/>  
-
-
-<br />
-
-----
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamazeeh&" alt="iamazeeh" /></p>
