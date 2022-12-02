@@ -1,5 +1,6 @@
-
+<div align="center">
 <img src="https://media.giphy.com/media/xT0GqdYU6eAkK559Ha/giphy.gif" align="center" style="width: 100%" />
+</div>
 
 
 <h1 align="center">Hello there Welcome 👋, </h1>
